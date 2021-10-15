@@ -15798,3 +15798,14 @@ hr {
 #footer-logo {
     max-width: 10rem;
 }
+
+.section-sponsers {
+    margin-top: 2.5rem;
+}
+
+.sponsers {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
