@@ -12170,7 +12170,7 @@ hr {
 .sigma_footer .sigma_footer-links {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin: 0px;
     height: 80%;
 }
@@ -12218,11 +12218,12 @@ hr {
 }
 
 .sigma_footer .sigma_footer-widget .widget-title {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .sigma_footer .sigma_footer-widget {
     height: 100%;
+    margin-bottom: 2rem;
 }
 
 .sigma_footer .sigma_footer-contact li,
@@ -15800,7 +15801,7 @@ hr {
 }
 
 .section-sponsers {
-    margin-top: 2.5rem;
+    margin-top: 4.5rem;
 }
 
 .sponsers {
@@ -15808,4 +15809,8 @@ hr {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+}
+
+.footer_contact-info {
+    margin-bottom: 2rem;
 }
