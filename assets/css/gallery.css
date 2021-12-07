@@ -50,6 +50,22 @@
     background-image: url(../img/works/work-6.jpg);
 }
 
+.image:nth-of-type(7) {
+    background-image: url(../img/works/work-7.jpg);
+}
+
+.image:nth-of-type(8) {
+    background-image: url(../img/works/work-8.jpg);
+}
+
+.image:nth-of-type(9) {
+    background-image: url(../img/works/work-9.jpg);
+}
+
+.image:nth-of-type(10) {
+    background-image: url(../img/works/work-10.jpg);
+}
+
 #exit {
     width: 2.5rem;
     height: 2.5rem;

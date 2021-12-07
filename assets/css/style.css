@@ -338,12 +338,18 @@ body {
     margin: 0 0 50px;
     max-width: 100%;
 }
+
 .section-title .title {
     font-weight: 700;
     font-size: 50px;
     line-height: 1.2;
     position: relative;
 }
+
+.section-title .title h1 {
+    margin-top: 260px;
+}
+
 .section-title .title.sm {
     font-size: 48px;
 }
@@ -15832,4 +15838,40 @@ hr {
 
 .footer_contact-info {
     margin-bottom: 2rem;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+.section-hero {
+    margin-top: 250px;
+}
+
+#myVideo {
+    right: 0;
+    top: 0;
+    height: 60vh;
+}
+
+@media only screen and (min-width: 750px) {
+    #myVideo {
+        right: 0;
+        top: 0;
+        width: 100vw;
+        height: unset;
+    }
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: absolute;
+    bottom: 20%;
+    margin: 0 auto;
+    color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.content h1 {
+    color: white;
+    text-align: center;
 }
