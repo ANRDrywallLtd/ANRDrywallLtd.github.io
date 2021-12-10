@@ -32,7 +32,8 @@
 <body class="btn-style-2 btn-rounded sidebar-style-9" data-spy="scroll" data-target="#section-header" data-offset="90">
   <!--header Start-->
   <div id="section-header">
-    <aside class="sigma_aside">
+    <!-- Navigation menu for mobile version: start -->
+    <aside class="sigma_aside" id="mobile-nav">
       <div class="sigma_close aside-trigger">
         <span></span>
         <span></span>
@@ -44,22 +45,23 @@
       </div>
       <ul class="navbar-nav">
         <li class="menu-item">
-          <a href="#section-about" class="nav-link">About</a>
+          <a href="#section-about" class="nav-link mobile-nav-link">About</a>
         </li>
         <li class="menu-item">
-          <a href="#section-services" class="nav-link">Services</a>
+          <a href="#section-services" class="nav-link mobile-nav-link">Services</a>
         </li>
         <li class="menu-item">
-          <a href="./pages/gallery.html" class="nav-link">Gallery</a>
+          <a href="./pages/gallery.html" class="nav-link mobile-nav-link">Gallery</a>
         </li>
         <li class="menu-item">
-          <a href="./pages/career.html">Career</a>
+          <a href="./pages/career.html" class="nav-link mobile-nav-link">Career</a>
         </li>
         <li class="menu-item">
-          <a href="./pages/contact-us.html" target="_blank" rel="noopener">Contact</a>
+          <a href="./pages/contact-us.html" class="nav-link mobile-nav-link">Contact</a>
         </li>
       </ul>
     </aside>
+    <!-- Navigation menu for mobile version: end -->
     <div class="sigma_aside-overlay aside-trigger">
     </div>
     <header class="sigma_header sigma_header-absolute style-7 can-sticky">
@@ -109,7 +111,7 @@
                     </svg> </a>
                 </li>
               </ul>
-              <a href="./pages/contact-us.html" target="_blank" rel="noopener"
+              <a href="./pages/contact-us.html"
                 class="scroll-link sigma_btn secondary ml-5">Get
                 a quote</a>
             </div>
@@ -135,10 +137,10 @@
                 <a href="./pages/gallery.html" class="nav-link">Gallery</a>
               </li>
               <li class="menu-item">
-                <a href="./pages/career.html">Career</a>
+                <a href="./pages/career.html" class="nav-link">Career</a>
               </li>
               <li class="menu-item">
-                <a href="./pages/contact-us.html" target="_blank" rel="noopener">Contact</a>
+                <a href="./pages/contact-us.html" class="nav-link">Contact</a>
               </li>
             </ul>
             <div class="sigma_header-controls style-1">
@@ -413,7 +415,7 @@
                     <a href="./pages/career.html">Career</a>
                   </li>
                   <li>
-                    <a href="./pages/contact-us.html" target="_blank" rel="noopener">Contact</a>
+                    <a href="./pages/contact-us.html">Contact</a>
                   </li>
                 </ul>
               </div>
@@ -471,8 +473,8 @@
   <script src="assets/js/plugins/jquery.counterup.min.js" type="text/javascript"></script>
   <script src="assets/js/plugins/jquery.inview.min.js" type="text/javascript"></script>
   <script src="assets/js/plugins/ion.rangeSlider.min.js" type="text/javascript"></script>
+  <script src="./assets/js/close-mobile-nav.js" type="text/javascript"></script>
   <script src="assets/js/main.js" type="text/javascript"></script>
-  <script src="assets/js/carousel-gallery.js" type="text/javascript"></script>
 </body>
 
 </html>
