@@ -26,44 +26,176 @@
     overflow: hidden;
 }
 
-.image:nth-of-type(1) {
+#image-no-1 {
     background-image: url(../img/works/work-1.jpg);
 }
 
-.image:nth-of-type(2) {
+#image-no-2 {
     background-image: url(../img/works/work-2.jpg);
 }
 
-.image:nth-of-type(3) {
+#image-no-3 {
     background-image: url(../img/works/work-3.jpg);
 }
 
-.image:nth-of-type(4) {
+#image-no-4 {
     background-image: url(../img/works/work-4.jpg);
 }
 
-.image:nth-of-type(5) {
+#image-no-5 {
     background-image: url(../img/works/work-5.jpg);
 }
 
-.image:nth-of-type(6) {
+#image-no-6 {
     background-image: url(../img/works/work-6.jpg);
 }
 
-.image:nth-of-type(7) {
+#image-no-7 {
     background-image: url(../img/works/work-7.jpg);
 }
 
-.image:nth-of-type(8) {
+#image-no-8 {
     background-image: url(../img/works/work-8.jpg);
 }
 
-.image:nth-of-type(9) {
+#image-no-9 {
     background-image: url(../img/works/work-9.jpg);
 }
 
-.image:nth-of-type(10) {
+#image-no-10 {
     background-image: url(../img/works/work-10.jpg);
+}
+
+#image-no-11 {
+    background-image: url(../img/works/work-11.jpg);
+}
+
+#image-no-12 {
+    background-image: url(../img/works/work-12.jpg);
+}
+
+#image-no-13 {
+    background-image: url(../img/works/work-13.jpg);
+}
+
+#image-no-14 {
+    background-image: url(../img/works/work-14.jpg);
+}
+
+#image-no-15 {
+    background-image: url(../img/works/work-15.jpg);
+}
+
+#image-no-16 {
+    background-image: url(../img/works/work-16.jpg);
+}
+
+#image-no-17 {
+    background-image: url(../img/works/work-17.jpg);
+}
+
+#image-no-18 {
+    background-image: url(../img/works/work-18.jpg);
+}
+
+#image-no-19 {
+    background-image: url(../img/works/work-19.jpg);
+}
+
+#image-no-20 {
+    background-image: url(../img/works/work-20.jpg);
+}
+
+#image-no-21 {
+    background-image: url(../img/works/work-21.jpg);
+}
+
+#image-no-22 {
+    background-image: url(../img/works/work-22.jpg);
+}
+
+#image-no-23 {
+    background-image: url(../img/works/work-23.jpg);
+}
+
+#image-no-24 {
+    background-image: url(../img/works/work-24.jpg);
+}
+
+#image-no-25 {
+    background-image: url(../img/works/work-25.jpg);
+}
+
+#image-no-26 {
+    background-image: url(../img/works/work-26.jpg);
+}
+
+#image-no-27 {
+    background-image: url(../img/works/work-27.jpg);
+}
+
+#image-no-28 {
+    background-image: url(../img/works/work-28.jpg);
+}
+
+#image-no-29 {
+    background-image: url(../img/works/work-29.jpg);
+}
+
+#image-no-30 {
+    background-image: url(../img/works/work-30.jpg);
+}
+
+#image-no-31 {
+    background-image: url(../img/works/work-31.jpg);
+}
+
+#image-no-32 {
+    background-image: url(../img/works/work-32.jpg);
+}
+
+#image-no-33 {
+    background-image: url(../img/works/work-33.jpg);
+}
+
+#image-no-34 {
+    background-image: url(../img/works/work-34.jpg);
+}
+
+#image-no-35 {
+    background-image: url(../img/works/work-35.jpg);
+}
+
+#image-no-36 {
+    background-image: url(../img/works/work-36.jpg);
+}
+
+#image-no-37 {
+    background-image: url(../img/works/work-37.jpg);
+}
+
+#image-no-38 {
+    background-image: url(../img/works/work-38.jpg);
+}
+
+#image-no-39 {
+    background-image: url(../img/works/work-39.jpg);
+}
+
+#image-no-40 {
+    background-image: url(../img/works/work-40.jpg);
+}
+
+#image-no-41 {
+    background-image: url(../img/works/work-41.jpg);
+}
+
+#image-no-42 {
+    background-image: url(../img/works/work-42.jpg);
+}
+
+#image-no-43 {
+    background-image: url(../img/works/work-43.jpg);
 }
 
 #exit {
